@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenciInjectionExamples
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorBasedDI", "ConstructorBasedDI\ConstructorBasedDI.csproj", "{F6C58A5C-AB2C-4228-B00D-067363F2F232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetterBasedDIFromApp", "SetterBasedDIFromApp\SetterBasedDIFromApp.csproj", "{2CD95D40-59EF-4F3D-B51D-1798302D7526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F6C58A5C-AB2C-4228-B00D-067363F2F232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C58A5C-AB2C-4228-B00D-067363F2F232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C58A5C-AB2C-4228-B00D-067363F2F232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD95D40-59EF-4F3D-B51D-1798302D7526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD95D40-59EF-4F3D-B51D-1798302D7526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD95D40-59EF-4F3D-B51D-1798302D7526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD95D40-59EF-4F3D-B51D-1798302D7526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
